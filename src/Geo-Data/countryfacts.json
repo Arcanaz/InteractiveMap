@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Andorra",
+    "flag": "../Flags/ad.png",
+    "facts": [
+      "Andorra is one of the smallest countries in Europe.",
+      "It is known for its ski resorts and tax-free shopping.",
+      "The country has a population of around 77,000 people.",
+      "Andorra is located in the eastern Pyrenees mountains.",
+      "The official language is Catalan."
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "flag": "../Flags/ae.png",
+    "facts": [
+      "The UAE is known for its modern architecture and luxury shopping.",
+      "Dubai is famous for the Burj Khalifa, the tallest building in the world.",
+      "The country has seven emirates, including Abu Dhabi and Dubai.",
+      "UAE is a significant hub for international trade and tourism.",
+      "The official language is Arabic."
+    ]
+  },
+  {
+    "name": "Afghanistan",
+    "flag": "../Flags/af.png",
+    "facts": [
+      "Afghanistan is known for its rugged terrain and mountainous regions.",
+      "The country has a rich history, including the ancient Silk Road.",
+      "Dari and Pashto are the official languages.",
+      "Afghanistan is home to the Buddhas of Bamiyan, ancient statues carved into the rock.",
+      "The country has been affected by conflict for several decades."
+    ]
+  },
+  {
+    "name": "Antigua and Barb.",
+    "flag": "../Flags/ag.png",
+    "facts": [
+      "Antigua and Barbuda is known for its beautiful beaches.",
+      "The country has a population of about 100,000 people.",
+      "Antigua was once a British colony, gaining independence in 1981.",
+      "The island is famous for hosting the annual Antigua Sailing Week.",
+      "The economy relies heavily on tourism, accounting for a significant portion of GDP."
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "flag": "../Flags/ai.png",
+    "facts": [
+      "Anguilla is known for its stunning beaches and coral reefs.",
+      "The island has a population of around 15,000 people.",
+      "Anguilla was a British colony and remains a British Overseas Territory.",
+      "The island is famous for its vibrant music and cultural festivals.",
+      "Tourism is a major part of Anguilla's economy, attracting visitors from around the world."
+    ]
+  },
+  {
+    "name": "Albania",
+    "flag": "../Flags/al.png",
+    "facts": [
+      "Albania is known for its beautiful coastline along the Adriatic Sea.",
+      "The country has a rich history that dates back to ancient Illyria.",
+      "Tirana is the capital and largest city of Albania.",
+      "Albania is home to many UNESCO World Heritage Sites, including Butrint and Gjirokastër.",
+      "The official language is Albanian, and the currency is the Albanian lek."
+    ]
+  },
+  {
+    "name": "Armenia",
+    "flag": "../Flags/am.png",
+    "facts": [
+      "Armenia is one of the oldest countries in the world, with a rich cultural heritage.",
+      "The country was the first to adopt Christianity as its state religion in 301 AD.",
+      "Mount Ararat, a national symbol, is located near the Armenian border.",
+      "Armenia is known for its beautiful monasteries, such as Khor Virap and Tatev.",
+      "The official language is Armenian, and the currency is the Armenian dram."
+    ]
+  },
+  {
+    "name": "Angola",
+    "flag": "../Flags/ao.png",
+    "facts": [
+      "Angola is rich in natural resources, particularly oil and diamonds.",
+      "The country has a diverse culture influenced by various ethnic groups.",
+      "Luanda is the capital and largest city of Angola.",
+      "Angola gained independence from Portugal in 1975 after a long liberation struggle.",
+      "The official language is Portuguese, and the country has a growing economy."
+    ]
+  },
+  {
+    "name": "Antarctica",
+    "flag": "../Flags/aq.png",
+    "facts": [
+      "Antarctica is the coldest continent on Earth and is almost entirely covered in ice.",
+      "The continent is uninhabited, except for temporary research stations.",
+      "Antarctica has unique wildlife, including penguins, seals, and various seabirds.",
+      "The Antarctic Treaty regulates international relations and preserves the continent for peaceful purposes.",
+      "Research conducted in Antarctica contributes to our understanding of climate change."
+    ]
+  },
+  {
+    "name": "Argentina",
+    "flag": "../Flags/ar.png",
+    "facts": [
+      "Argentina is known for its rich cultural heritage, including tango music and dance.",
+      "The country is the eighth largest in the world by area.",
+      "Buenos Aires is the capital and is famous for its European-style architecture.",
+      "Argentina is home to diverse landscapes, from the Andes mountains to the Pampas grasslands.",
+      "The official language is Spanish, and the country is known for its beef production."
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "flag": "../Flags/as.png",
+    "facts": [
+      "American Samoa is an unincorporated territory of the United States located in the South Pacific.",
+      "It consists of five main islands and two coral atolls, with Tutuila being the largest.",
+      "The official languages are Samoan and English.",
+      "American Samoa has a unique blend of Polynesian culture and American influences.",
+      "The economy is largely supported by tuna fishing and canning industries."
+    ]
+  },
+  {
+    "name": "Austria",
+    "flag": "../Flags/at.png",
+    "facts": [
+      "Austria is a landlocked country in Central Europe.",
+      "The capital city is Vienna, known for its artistic and intellectual legacy.",
+      "Austria is famous for its classical music composers, including Mozart and Beethoven.",
+      "The country has a rich history and was part of the Austro-Hungarian Empire.",
+      "The official language is German."
+    ]
+  },
+  {
+    "name": "Australia",
+    "flag": "../Flags/au.png",
+    "facts": [
+      "Australia is the sixth largest country in the world by total area.",
+      "It is known for its unique wildlife, including kangaroos and koalas.",
+      "The Great Barrier Reef, the world's largest coral reef system, is located off its coast.",
+      "Australia has a diverse landscape that includes deserts, forests, and beaches.",
+      "The official language is English."
+    ]
+  },
+  {
+    "name": "Aruba",
+    "flag": "../Flags/aw.png",
+    "facts": [
+      "Aruba is a small island located in the Caribbean Sea.",
+      "It is known for its stunning white-sand beaches and turquoise waters.",
+      "The island has a dry climate, making it a popular year-round tourist destination.",
+      "Aruba is a constituent country of the Kingdom of the Netherlands.",
+      "The official languages are Dutch and Papiamento."
+    ]
+  },
+  {
+    "name": "Åland",
+    "flag": "../Flags/ax.png",
+    "facts": [
+      "Åland is an archipelago in the Baltic Sea, belonging to Finland.",
+      "The islands have a special status and enjoy autonomy.",
+      "Åland is known for its beautiful nature and maritime culture.",
+      "The official language is Swedish.",
+      "Tourism, shipping, and agriculture are significant economic activities."
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "flag": "../Flags/az.png",
+    "facts": [
+      "Azerbaijan is located at the crossroads of Eastern Europe and Western Asia.",
+      "The capital city is Baku, known for its modern architecture and historic sites.",
+      "Azerbaijan is rich in oil and natural gas resources.",
+      "The country is known for its diverse culture, influenced by various ethnic groups.",
+      "The official language is Azerbaijani."
+    ]
+  },
+  {
+    "name": "Bosnia and Herz.",
+    "flag": "../Flags/ba.png",
+    "facts": [
+      "Bosnia and Herzegovina is located in Southeast Europe on the Balkan Peninsula.",
+      "The country has a rich cultural history influenced by both Eastern and Western civilizations.",
+      "Sarajevo, the capital, is known for its historical significance and cultural diversity.",
+      "The country is famous for its natural beauty, including mountains and rivers.",
+      "The official languages are Bosnian, Croatian, and Serbian."
+    ]
+  },
+  {
+    "name": "Barbados",
+    "flag": "../Flags/bb.png",
+    "facts": [
+      "Barbados is an island country in the Caribbean region.",
+      "It is known for its beautiful beaches and vibrant culture.",
+      "Barbados has a rich history, having been a British colony until gaining independence in 1966.",
+      "The island is famous for its rum production.",
+      "The official language is English."
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "flag": "../Flags/bd.png",
+    "facts": [
+      "Bangladesh is located in South Asia, bordered by India and Myanmar.",
+      "The capital city is Dhaka, one of the most densely populated cities in the world.",
+      "The country is known for its rich cultural heritage and diverse landscapes.",
+      "Bangladesh is famous for its textile industry and is one of the largest garment exporters.",
+      "The official language is Bengali."
+    ]
+  },
+  {
+    "name": "Belgium",
+    "flag": "../Flags/be.png",
+    "facts": [
+      "Belgium is located in Western Europe and is known for its medieval towns and Renaissance architecture.",
+      "The capital city, Brussels, is the de facto capital of the European Union.",
+      "Belgium is famous for its chocolates, waffles, and beer.",
+      "The country has three official languages: Dutch, French, and German.",
+      "Belgium has a rich artistic heritage, producing famous artists like Magritte and Van Eyck."
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "flag": "../Flags/bf.png",
+    "facts": [
+      "Burkina Faso is a landlocked country in West Africa.",
+      "The capital city is Ouagadougou.",
+      "The country is known for its vibrant music and arts scene.",
+      "Burkina Faso has a diverse culture with over 60 ethnic groups.",
+      "The official language is French."
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "flag": "../Flags/bg.png",
+    "facts": [
+      "Bulgaria is located in Southeast Europe on the Balkan Peninsula.",
+      "The capital city is Sofia, one of the oldest cities in Europe.",
+      "Bulgaria is famous for its rose oil production.",
+      "The country has a rich cultural history, with many UNESCO World Heritage sites.",
+      "The official language is Bulgarian."
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "flag": "../Flags/bh.png",
+    "facts": [
+      "Bahrain is an island country in the Persian Gulf.",
+      "The capital city is Manama.",
+      "Bahrain is known for its financial sector and as a banking hub.",
+      "The country has a rich history, with ancient Dilmun civilization sites.",
+      "The official language is Arabic."
+    ]
+  },
+  {
+    "name": "Burundi",
+    "flag": "../Flags/bi.png",
+    "facts": [
+      "Burundi is a landlocked country in East Africa.",
+      "The capital city is Gitega, while Bujumbura was the former capital.",
+      "The country is known for its rich cultural heritage and traditions.",
+      "Burundi is famous for its drum culture and traditional music.",
+      "The official languages are Kirundi, French, and English."
+    ]
+  },
+  {
+    "name": "Benin",
+    "flag": "../Flags/bi.png",
+    "facts": [
+      "Benin is located in West Africa, bordered by Togo and Nigeria.",
+      "The capital city is Porto-Novo, but the largest city is Cotonou.",
+      "The country is known for its rich history as the birthplace of the Vodun religion.",
+      "Benin has a diverse culture with many ethnic groups.",
+      "The official language is French."
+    ]
+  },
+  {
+    "name": "St-Barthélemy",
+    "flag": "../Flags/bl.png",
+    "facts": [
+      "St-Barthélemy is a French overseas collectivity in the Caribbean.",
+      "The island is known for its white-sand beaches and luxury tourism.",
+      "The capital city is Gustavia, which has a charming harbor.",
+      "St-Barthélemy is famous for its annual yacht regatta.",
+      "The official language is French."
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "flag": "../Flags/bm.png",
+    "facts": [
+      "Bermuda is a British Overseas Territory in the North Atlantic Ocean.",
+      "The capital city is Hamilton.",
+      "Bermuda is known for its pink sand beaches and clear blue waters.",
+      "The island has a subtropical climate and lush vegetation.",
+      "The official language is English."
+    ]
+  },
+  {
+    "name": "Brunei",
+    "flag": "../Flags/bn.png",
+    "facts": [
+      "Brunei is a small, wealthy nation located on the island of Borneo in Southeast Asia.",
+      "The capital city is Bandar Seri Begawan.",
+      "Brunei is known for its oil wealth and modern architecture.",
+      "The country has a rich Islamic culture and heritage.",
+      "The official language is Malay."
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "flag": "../Flags/bo.png",
+    "facts": [
+      "Bolivia is a landlocked country in South America.",
+      "The capital city is Sucre, while La Paz is the administrative capital.",
+      "Bolivia is known for its diverse geography, including the Andes Mountains and Amazon rainforest.",
+      "The country has a rich indigenous culture and heritage.",
+      "The official languages are Spanish, Quechua, and Aymara."
+    ]
+  },
+  {
+    "name": "Bonaire",
+    "flag": "../Flags/bq.png",
+    "facts": [
+      "Bonaire is a special municipality of the Netherlands located in the Caribbean.",
+      "The island is known for its coral reefs and scuba diving spots.",
+      "Bonaire has a unique blend of Dutch and Caribbean cultures.",
+      "The capital city is Kralendijk.",
+      "The official languages are Dutch and Papiamento."
+    ]
+  },
+  {
+    "name": "Brazil",
+    "flag": "../Flags/br.png",
+    "facts": [
+      "Brazil is the largest country in South America and the fifth largest in the world.",
+      "The capital city is Brasília, known for its modernist architecture.",
+      "Brazil is famous for its diverse ecosystems, including the Amazon rainforest.",
+      "The country is known for its vibrant culture, including samba and carnival.",
+      "The official language is Portuguese."
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "flag": "../Flags/bs.png",
+    "facts": [
+      "The Bahamas is an archipelago in the Caribbean consisting of over 700 islands.",
+      "The capital city is Nassau, located on New Providence Island.",
+      "The Bahamas is known for its beautiful beaches and clear blue waters.",
+      "The economy relies heavily on tourism and offshore finance.",
+      "The official language is English."
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "flag": "../Flags/bt.png",
+    "facts": [
+      "Bhutan is a landlocked country in the Eastern Himalayas.",
+      "The capital city is Thimphu, known for its unique architecture.",
+      "Bhutan is famous for its policy of Gross National Happiness.",
+      "The official language is Dzongkha.",
+      "The country is known for its stunning monasteries and landscapes."
+    ]
+  },
+  {
+    "name": "British Virgin Is.",
+    "flag": "../Flags/bv.png",
+    "facts": [
+      "The British Virgin Islands is a territory in the Caribbean.",
+      "The capital city is Road Town on Tortola island.",
+      "The islands are known for their beautiful beaches and sailing opportunities.",
+      "The official language is English.",
+      "The territory has a vibrant marine life, making it popular for diving."
+    ]
+  },
+  {
+    "name": "Botswana",
+    "flag": "../Flags/bw.png",
+    "facts": [
+      "Botswana is a landlocked country in Southern Africa.",
+      "The capital city is Gaborone.",
+      "The country is famous for its wildlife and the Okavango Delta.",
+      "Botswana has one of the world's largest populations of elephants.",
+      "The official language is English, but Setswana is widely spoken."
+    ]
+  },
+  {
+    "name": "Belarus",
+    "flag": "../Flags/by.png",
+    "facts": [
+      "Belarus is located in Eastern Europe, bordered by Russia and Poland.",
+      "The capital city is Minsk, known for its Soviet architecture.",
+      "The country has a rich cultural heritage with many UNESCO World Heritage sites.",
+      "Belarus is known for its vast forests and nature reserves.",
+      "The official languages are Belarusian and Russian."
+    ]
+  },
+  {
+    "name": "Belize",
+    "flag": "../Flags/bz.png",
+    "facts": [
+      "Belize is located on the northeastern coast of Central America.",
+      "The capital city is Belmopan, while Belize City is the largest city.",
+      "The country is known for its barrier reef and diverse ecosystems.",
+      "Belize has a rich history with ancient Mayan ruins.",
+      "The official language is English."
+    ]
+  },
+  {
+    "name": "Canada",
+    "flag": "../Flags/ca.png",
+    "facts": [
+      "Canada is the second-largest country in the world by land area.",
+      "The capital city is Ottawa, located in Ontario.",
+      "Canada is known for its stunning natural landscapes and national parks.",
+      "The country has two official languages: English and French.",
+      "Canada is famous for its maple syrup and multicultural society."
+    ]
+  },
+  {
+    "name": "Br. Indian Ocean Ter.",
+    "flag": "../Flags/cc.png",
+    "facts": [
+      "The British Indian Ocean Territory is located in the Indian Ocean, near the Maldives.",
+      "It includes the Chagos Archipelago, a group of seven atolls with over 60 islands.",
+      "The largest island, Diego Garcia, is home to a large U.S. military base.",
+      "The territory has no permanent population, only military personnel and contractors.",
+      "It is one of the 14 British Overseas Territories."
+    ]
+  },
+  {
+    "name": "Dem. Rep. Congo",
+    "flag": "../Flags/cd.png",
+    "facts": [
+      "The Democratic Republic of Congo is the second-largest country in Africa by area.",
+      "It is home to the Congo River, one of the longest rivers in the world.",
+      "The country has vast natural resources, including cobalt and diamonds.",
+      "The capital city is Kinshasa, which lies across the river from Brazzaville, the capital of the Republic of Congo.",
+      "Virunga National Park in the DRC is known for its mountain gorillas and diverse wildlife."
+    ]
+  },
+  {
+    "name": "Central African Rep.",
+    "flag": "../Flags/cf.png",
+    "facts": [
+      "The Central African Republic (CAR) is a landlocked country in Central Africa.",
+      "The official languages are French and Sango.",
+      "CAR is known for its rich biodiversity and is home to rainforests, savannas, and rivers.",
+      "The capital city, Bangui, is located along the Ubangi River.",
+      "The economy heavily relies on agriculture, with diamonds as a significant export."
+    ]
+  },
+  {
+    "name": "Congo",
+    "flag": "../Flags/cg.png",
+    "facts": [
+      "The Republic of Congo, often called Congo-Brazzaville, is located in Central Africa.",
+      "The capital city, Brazzaville, sits on the Congo River across from Kinshasa, the capital of the Democratic Republic of the Congo.",
+      "The official language is French, but various indigenous languages are also spoken.",
+      "The country has vast rainforests and is rich in natural resources, including oil and timber.",
+      "The Congo River is one of the longest and deepest rivers in the world, critical to the region's ecology and economy."
+    ]
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "flag": "../Flags/ci.png",
+    "facts": [
+      "Côte d'Ivoire, also known as Ivory Coast, is a country in West Africa with a rich cultural heritage.",
+      "The official capital is Yamoussoukro, while Abidjan serves as the economic and cultural center.",
+      "It is one of the world's largest producers of cocoa beans, vital to the global chocolate industry.",
+      "The country gained independence from France in 1960, and French remains the official language.",
+      "The Basilica of Our Lady of Peace in Yamoussoukro is one of the largest churches in the world."
+    ]
+  }
+]

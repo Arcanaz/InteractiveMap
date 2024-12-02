@@ -1,0 +1,37 @@
+import React, { useEffect, useState } from 'react';
+import maplibregl from 'maplibre-gl';
+import CurrentCoordinates from './CurrentCoordinates';
+
+const MapComponent: React.FC = () => {
+    const [lat, setLat] = useState(40); // Initial latitude
+    const [lng, setLng] = useState(-74.5); // Initial longitude
+
+    useEffect(() => {
+        const map = new maplibregl.Map({
+            container: 'map',
+            style: 'https://demotiles.maplibre.org/style.json', // Updated style URL
+            center: [lng, lat],
+            zoom: 9,
+            scrollZoom: true, // Enable zooming with the mouse scroll wheel
+        });
+
+        // Update coordinates on map move
+        map.on('move', () => {
+            const { lng, lat } = map.getCenter();
+            setLng(lng);
+            setLat(lat);
+        });
+
+        // Cleanup function to remove the map
+        return () => map.remove();
+    }, []);
+
+    return (
+        <div style={{ position: 'relative', width: '100vw', height: '100vh', overflow: 'hidden' }}>
+            <div id="map" style={{ width: '100%', height: '100%' }} />
+            <CurrentCoordinates latitude={lat} longitude={lng} />
+        </div>
+    );
+};
+
+export default MapComponent;

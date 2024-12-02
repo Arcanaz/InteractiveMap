@@ -1,0 +1,15 @@
+/* src/MapComponent.css */
+
+.container {
+  display: flex; /* Use Flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  width: 100vw; /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+}
+
+#map {
+  width: 100vw; /* 90% of the viewport width */
+  height: 100vh; /* 90% of the viewport height */
+  position: relative; /* Needed for map positioning */
+}
