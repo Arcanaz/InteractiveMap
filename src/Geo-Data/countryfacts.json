@@ -471,5 +471,2084 @@
       "The country gained independence from France in 1960, and French remains the official language.",
       "The Basilica of Our Lady of Peace in Yamoussoukro is one of the largest churches in the world."
     ]
+  },
+  {
+    "name": "United States of America",
+    "flag": "../Flags/us.png",
+    "facts": [
+      "The United States is the third largest country in the world by land area.",
+      "It has a population of over 330 million people.",
+      "The country is known for its cultural diversity and technological innovation.",
+      "The United States has 50 states, with Washington, D.C. as its capital.",
+      "The official language is English, although many other languages are spoken."
+    ]
+  },
+  {
+    "name": "Mexico",
+    "flag": "../Flags/mx.png",
+    "facts": [
+      "Mexico is known for its rich cultural heritage and ancient civilizations like the Aztecs and Mayans.",
+      "It is famous for its cuisine, including tacos, enchiladas, and mole.",
+      "The official language is Spanish.",
+      "Mexico City is the capital and one of the largest cities in the world.",
+      "The Day of the Dead is a significant cultural celebration in Mexico."
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "flag": "../Flags/gt.png",
+    "facts": [
+      "Guatemala is known for its Mayan heritage and ancient ruins like Tikal.",
+      "Lake Atitlán is one of the most famous tourist attractions in the country.",
+      "The official language is Spanish, though many indigenous languages are also spoken.",
+      "Guatemala City is the capital and largest city.",
+      "The national currency is the Quetzal."
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "flag": "../Flags/sv.png",
+    "facts": [
+      "El Salvador is the smallest country in Central America.",
+      "It is known for its beautiful beaches, perfect for surfing.",
+      "The official language is Spanish.",
+      "San Salvador is the capital city.",
+      "El Salvador uses the U.S. Dollar as its official currency."
+    ]
+  },
+  {
+    "name": "Honduras",
+    "flag": "../Flags/hn.png",
+    "facts": [
+      "Honduras is famous for its natural beauty, including the Bay Islands and Copán ruins.",
+      "The official language is Spanish.",
+      "Tegucigalpa is the capital city.",
+      "It has one of the largest coral reefs in the world.",
+      "Honduras is a significant exporter of coffee and bananas."
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "flag": "../Flags/ni.png",
+    "facts": [
+      "Nicaragua is known as the 'Land of Lakes and Volcanoes.'",
+      "It is home to Lake Nicaragua, the largest lake in Central America.",
+      "The official language is Spanish.",
+      "Managua is the capital and largest city.",
+      "Nicaragua is famous for its vibrant culture and traditions."
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "flag": "../Flags/cr.png",
+    "facts": [
+      "Costa Rica is renowned for its biodiversity and eco-tourism.",
+      "It has no military and focuses heavily on education and healthcare.",
+      "San José is the capital city.",
+      "The official language is Spanish.",
+      "Costa Rica is home to many national parks and protected areas."
+    ]
+  },
+  {
+    "name": "Cuba",
+    "flag": "../Flags/cu.png",
+    "facts": [
+      "Cuba is known for its music, dance, and cigars.",
+      "Havana is the capital and largest city.",
+      "The official language is Spanish.",
+      "Cuba has a rich history, including its revolutionary movement.",
+      "The island is famous for its classic cars and vibrant culture."
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "flag": "../Flags/jm.png",
+    "facts": [
+      "Jamaica is the birthplace of reggae music and Bob Marley.",
+      "The official language is English.",
+      "Kingston is the capital city.",
+      "The country is known for its beautiful beaches and lush landscapes.",
+      "Jamaica is famous for its athletic achievements, especially in sprinting."
+    ]
+  },
+  {
+    "name": "Cayman Is.",
+    "flag": "../Flags/ky.png",
+    "facts": [
+      "The Caymen Is. are known for their luxury tourism and diving spots.",
+      "George Town is the capital city.",
+      "The official language is English.",
+      "The islands are a British Overseas Territory.",
+      "They are a major financial hub in the Caribbean."
+    ]
+  },
+  {
+    "name": "Turks and Caicos Is.",
+    "flag": "../Flags/tc.png",
+    "facts": [
+      "The Turks and Caicos Is. are famous for their pristine beaches and coral reefs.",
+      "Cockburn Town is the capital city.",
+      "The official language is English.",
+      "The islands are a British Overseas Territory.",
+      "Tourism is a significant part of the local economy."
+    ]
+  },
+  {
+    "name": "Haiti",
+    "flag": "../Flags/ht.png",
+    "facts": [
+      "Haiti was the first independent nation in Latin America and the Caribbean.",
+      "Port-au-Prince is the capital city.",
+      "The official languages are Haitian Creole and French.",
+      "Haiti shares the island of Hispaniola with the Dominican Republic.",
+      "The country is known for its vibrant art and music scene."
+    ]
+  },
+  {
+    "name": "Dominican Rep.",
+    "flag": "../Flags/do.png",
+    "facts": [
+      "The Dominican Rep. is known for its beaches and resorts.",
+      "Santo Domingo is the capital city and a UNESCO World Heritage Site.",
+      "The official language is Spanish.",
+      "The country shares the island of Hispaniola with Haiti.",
+      "Baseball is the most popular sport in the Dominican Rep."
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "flag": "../Flags/pr.png",
+    "facts": [
+      "Puerto Rico is a territory of the United States.",
+      "San Juan is the capital city.",
+      "The official languages are Spanish and English.",
+      "The island is known for its beautiful beaches and vibrant culture.",
+      "Puerto Rico is famous for its music, such as reggaeton."
+    ]
+  },
+  {
+    "name": "U.S. Virgin Is.",
+    "flag": "../Flags/vi.png",
+    "facts": [
+      "The U.S. Virgin Is. are a territory of the United States.",
+      "Charlotte Amalie is the capital city.",
+      "The official language is English.",
+      "The islands are known for their stunning beaches and sailing.",
+      "Tourism is a major part of the economy."
+    ]
+  },
+  {
+    "name": "St-Martin",
+    "flag": "../Flags/mf.png",
+    "facts": [
+      "St-Martin is divided into French and Dutch parts.",
+      "Marigot is the capital of the French side.",
+      "The official languages are French and Dutch, but English is widely spoken.",
+      "It is famous for its beaches and duty-free shopping.",
+      "The island has a vibrant nightlife scene."
+    ]
+  },
+  {
+    "name": "Sint Maarten",
+    "flag": "../Flags/sx.png",
+    "facts": [
+      "Sint Maarten is the Dutch part of the island of Saint Martin.",
+      "Philipsburg is the capital city.",
+      "The official language is Dutch, but English is widely spoken.",
+      "The island is famous for its beaches and Maho Beach, where planes fly low over visitors.",
+      "Tourism is the main industry."
+    ]
+  },
+  {
+    "name": "Montserrat",
+    "flag": "../Flags/ms.png",
+    "facts": [
+      "Montserrat is known as the 'Emerald Isle of the Caribbean.'",
+      "Plymouth was the capital but was abandoned due to volcanic eruptions.",
+      "The official language is English.",
+      "Montserrat is a British Overseas Territory.",
+      "The Soufrière Hills volcano is a major natural feature."
+    ]
+  },
+  {
+    "name": "St. Kitts and Nevis",
+    "flag": "../Flags/kn.png",
+    "facts": [
+      "St. Kitts and Nevis is the smallest country in the Americas by both area and population.",
+      "Basseterre is the capital city.",
+      "The official language is English.",
+      "The country is known for its sugar production history.",
+      "It is a popular destination for eco-tourism and luxury travel."
+    ]
+  },
+  {
+    "name": "Dominica",
+    "flag": "../Flags/dm.png",
+    "facts": [
+      "Dominica is known as the 'Nature Island of the Caribbean.'",
+      "Roseau is the capital city.",
+      "The official language is English.",
+      "It is famous for its lush rainforests and natural hot springs.",
+      "Dominica has the world's second-largest boiling lake."
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "flag": "../Flags/lc.png",
+    "facts": [
+      "Saint Lucia is famous for its twin Pitons, volcanic spires.",
+      "Castries is the capital city.",
+      "The official language is English, but French Creole is widely spoken.",
+      "It is a popular destination for honeymoons and luxury vacations.",
+      "Saint Lucia celebrates an annual jazz festival."
+    ]
+  },
+  {
+    "name": "St. Vin. and Gren.",
+    "flag": "../Flags/vc.png",
+    "facts": [
+      "St. Vin. and Gren. is known for its sailing and yachting culture.",
+      "Kingstown is the capital city.",
+      "The official language is English.",
+      "The country is made up of 32 islands and cays.",
+      "It is a popular location for filming movies, such as 'Pirates of the Caribbean.'"
+    ]
+  },
+  {
+    "name": "Curaçao",
+    "flag": "../Flags/cw.png",
+    "facts": [
+      "Curaçao is a Dutch Caribbean island known for its colorful architecture.",
+      "Willemstad, the capital, is a UNESCO World Heritage Site.",
+      "The official languages are Dutch, Papiamentu, and English.",
+      "Curaçao is famous for its beaches and coral reefs.",
+      "Tourism and oil refining are significant industries."
+    ]
+  },
+  {
+    "name": "Grenada",
+    "flag": "../Flags/gd.png",
+    "facts": [
+      "Grenada is known as the 'Island of Spice' for its nutmeg production.",
+      "St. George's is the capital city.",
+      "The official language is English.",
+      "It is famous for its beautiful beaches and waterfalls.",
+      "Grenada has an underwater sculpture park for divers."
+    ]
+  },
+  {
+    "name": "Clipperton I.",
+    "flag": "../Flags/fr.png",
+    "facts": [
+      "Clipperton Island is an uninhabited atoll in the eastern Pacific Ocean.",
+      "It is administered by France and primarily used for scientific research.",
+      "The island was named after John Clipperton, an 18th-century pirate.",
+      "It is home to a large population of seabirds, including boobies and frigates.",
+      "The surrounding waters are rich in marine biodiversity."
+    ]
+  },
+  {
+    "name": "Panama",
+    "flag": "../Flags/pa.png",
+    "facts": [
+      "Panama is home to the Panama Canal, a key waterway connecting the Atlantic and Pacific Oceans.",
+      "The capital city, Panama City, is known for its modern skyline and historic Casco Viejo district.",
+      "Panama is famous for its biodiversity, with numerous national parks and rainforests.",
+      "The official language is Spanish.",
+      "The country uses the Panamanian balboa and the U.S. dollar as its currencies."
+    ]
+  },
+  {
+    "name": "Colombia",
+    "flag": "../Flags/co.png",
+    "facts": [
+      "Colombia is known for its coffee, emeralds, and vibrant culture.",
+      "The capital, Bogotá, is located in the Andes Mountains.",
+      "The country has diverse landscapes, from Amazon rainforests to Caribbean beaches.",
+      "The official language is Spanish.",
+      "Colombia is home to the famous Barranquilla Carnival, one of the largest festivals in South America."
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "flag": "../Flags/tt.png",
+    "facts": [
+      "Trinidad and Tobago is known for its Carnival, featuring elaborate costumes and calypso music.",
+      "The islands are rich in oil and natural gas resources.",
+      "Port of Spain is the capital city.",
+      "The official language is English.",
+      "Tobago is famous for its stunning coral reefs and beaches."
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "flag": "../Flags/ve.png",
+    "facts": [
+      "Venezuela is home to Angel Falls, the world's tallest uninterrupted waterfall.",
+      "The country has vast oil reserves and is a major petroleum exporter.",
+      "Caracas is the capital city.",
+      "The official language is Spanish.",
+      "Venezuela's Orinoco Delta is a haven for diverse wildlife."
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "flag": "../Flags/ec.png",
+    "facts": [
+      "Ecuador is named after the equator, which runs through the country.",
+      "The Galápagos Islands, part of Ecuador, are famous for their unique wildlife.",
+      "Quito, the capital, is a UNESCO World Heritage Site.",
+      "The official language is Spanish.",
+      "Ecuador uses the U.S. dollar as its currency."
+    ]
+  },
+  {
+    "name": "Peru",
+    "flag": "../Flags/pe.png",
+    "facts": [
+      "Peru is home to Machu Picchu, an ancient Incan city in the Andes.",
+      "The country is known for its diverse cuisine, including ceviche.",
+      "Lima, the capital, is famous for its colonial architecture.",
+      "The official language is Spanish, and Quechua is also widely spoken.",
+      "The Amazon Rainforest covers a large part of Peru."
+    ]
+  },
+  {
+    "name": "Chile",
+    "flag": "../Flags/cl.png",
+    "facts": [
+      "Chile is known for its long coastline along the Pacific Ocean.",
+      "The Atacama Desert in northern Chile is the driest desert in the world.",
+      "Santiago is the capital and largest city.",
+      "The official language is Spanish.",
+      "Chile is a leading producer of copper and wine."
+    ]
+  },
+  {
+    "name": "Suriname",
+    "flag": "../Flags/sr.png",
+    "facts": [
+      "Suriname is the smallest country in South America by area.",
+      "Paramaribo, the capital, is a UNESCO World Heritage Site.",
+      "The country has a diverse population with African, Indian, and Javanese influences.",
+      "The official language is Dutch.",
+      "Suriname is known for its vast rainforests and eco-tourism."
+    ]
+  },
+  {
+    "name": "Guyana",
+    "flag": "../Flags/gy.png",
+    "facts": [
+      "Guyana is known for its unspoiled rainforests and wildlife.",
+      "Kaieteur Falls, one of the world's largest single-drop waterfalls, is located here.",
+      "Georgetown is the capital city.",
+      "The official language is English.",
+      "The country is culturally influenced by the Caribbean and South America."
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "flag": "../Flags/py.png",
+    "facts": [
+      "Paraguay is a landlocked country in South America.",
+      "Asunción, the capital, is one of the oldest cities in South America.",
+      "The official languages are Spanish and Guarani.",
+      "The Itaipu Dam, shared with Brazil, is one of the world's largest hydroelectric dams.",
+      "Paraguay is known for its traditional harp music."
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "flag": "../Flags/uy.png",
+    "facts": [
+      "Uruguay is one of the most progressive countries in Latin America.",
+      "The capital, Montevideo, is known for its beachfront promenade.",
+      "Uruguay has a strong tradition of beef production and barbecues (asados).",
+      "The official language is Spanish.",
+      "The country is known for its high quality of life and stable democracy."
+    ]
+  },
+  {
+    "name": "S. Geo. and the Is.",
+    "flag": "../Flags/gs.png",
+    "facts": [
+      "South Georgia and the South Sandwich Islands are British Overseas Territories in the South Atlantic.",
+      "They are uninhabited except for temporary research stations.",
+      "The islands are known for their wildlife, including seals and penguins.",
+      "South Georgia played a role in Ernest Shackleton's Antarctic expeditions.",
+      "The surrounding waters are a haven for marine biodiversity."
+    ]
+  },
+  {
+    "name": "Falkland Is.",
+    "flag": "../Flags/fk.png",
+    "facts": [
+      "The Falkland Islands are a British Overseas Territory in the South Atlantic.",
+      "Stanley is the capital and largest settlement.",
+      "The islands are known for their wildlife, including penguins and albatrosses.",
+      "The economy relies on fishing, tourism, and sheep farming.",
+      "The sovereignty of the islands has been a subject of dispute between the UK and Argentina."
+    ]
+  },
+  {
+    "name": "Greenland",
+    "flag": "../Flags/gl.png",
+    "facts": [
+      "Greenland is the world's largest island that is not a continent.",
+      "It is an autonomous territory within the Kingdom of Denmark.",
+      "The majority of the population lives along the ice-free coastlines.",
+      "Greenland is known for its dramatic landscapes and Inuit culture."
+    ]
+  },
+  {
+    "name": "Iceland",
+    "flag": "../Flags/is.png",
+    "facts": [
+      "Iceland is a Nordic island nation with a volcanic landscape.",
+      "Reykjavik is the capital and largest city.",
+      "It is known for geothermal energy and natural hot springs.",
+      "The Icelandic language has remained relatively unchanged for centuries."
+    ]
+  },
+  {
+    "name": "Norway",
+    "flag": "../Flags/no.png",
+    "facts": [
+      "Norway is famous for its fjords, mountains, and coastal beauty.",
+      "Oslo is the capital and economic hub.",
+      "The country has a strong maritime tradition and economy.",
+      "Norway consistently ranks high in global happiness and quality of life indices."
+    ]
+  },
+  {
+    "name": "Faeroe Is.",
+    "flag": "../Flags/fo.png",
+    "facts": [
+      "The Faeroe Islands are a self-governing archipelago within the Kingdom of Denmark.",
+      "They are known for their dramatic cliffs and seabird colonies.",
+      "The economy is heavily reliant on fishing and aquaculture.",
+      "Traditional Faroese culture includes chain dancing and storytelling."
+    ]
+  },
+  {
+    "name": "Ireland",
+    "flag": "../Flags/ie.png",
+    "facts": [
+      "Ireland is known as the Emerald Isle for its lush green landscapes.",
+      "Dublin is the capital and largest city.",
+      "The Irish language, Gaelic, is one of the country's official languages.",
+      "It has a rich cultural heritage in literature, music, and folklore."
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "../Flags/gb.png",
+    "facts": [
+      "The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.",
+      "London is the capital and one of the world's leading financial centers.",
+      "It has a constitutional monarchy with a parliamentary system.",
+      "The UK has a long and influential history in global politics, science, and culture."
+    ]
+  },
+  {
+    "name": "Isle of Man",
+    "flag": "../Flags/im.png",
+    "facts": [
+      "The Isle of Man is a self-governing British Crown Dependency.",
+      "It is located in the Irish Sea between Great Britain and Ireland.",
+      "The island is known for its annual TT motorcycle race.",
+      "Manx Gaelic is a recognized minority language on the island."
+    ]
+  },
+  {
+    "name": "Portugal",
+    "flag": "../Flags/pt.png",
+    "facts": [
+      "Portugal is known for its historic maritime heritage.",
+      "Lisbon is the capital and economic hub.",
+      "The country is famous for its port wine and azulejos (ceramic tiles).",
+      "Portuguese is one of the most spoken languages in the world due to its colonial history."
+    ]
+  },
+  {
+    "name": "Spain",
+    "flag": "../Flags/es.png",
+    "facts": [
+      "Spain is known for its diverse cultures and rich history.",
+      "Madrid is the capital and largest city.",
+      "It is famous for its cuisine, including tapas and paella.",
+      "Spain has 47 UNESCO World Heritage Sites, the third-highest in the world."
+    ]
+  },
+  {
+    "name": "France",
+    "flag": "../Flags/fr.png",
+    "facts": [
+      "France is renowned for its art, fashion, and cuisine.",
+      "Paris, the capital, is known as the City of Light.",
+      "It is one of the world's most visited countries.",
+      "French is the official language and is widely spoken around the world."
+    ]
+  },
+  {
+    "name": "Gibraltar",
+    "flag": "../Flags/gi.png",
+    "facts": [
+      "Gibraltar is a British Overseas Territory located at the southern tip of Spain.",
+      "It is known for the Rock of Gibraltar and its resident Barbary macaques.",
+      "Gibraltar's economy relies on tourism, shipping, and financial services.",
+      "The territory has been a strategic military location for centuries."
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "flag": "../Flags/gg.png",
+    "facts": [
+      "Guernsey is a British Crown Dependency in the English Channel.",
+      "It is known for its beaches and coastal cliffs.",
+      "The economy is supported by finance, tourism, and agriculture.",
+      "Guernésiais is a traditional Norman language spoken by some residents."
+    ]
+  },
+  {
+    "name": "Jersey",
+    "flag": "../Flags/je.png",
+    "facts": [
+      "Jersey is the largest of the Channel Islands and a Crown Dependency.",
+      "The island is known for its dairy industry and iconic Jersey cows.",
+      "Its capital is St. Helier, a financial and cultural center.",
+      "Jèrriais is a traditional language spoken by some islanders."
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "flag": "../Flags/lu.png",
+    "facts": [
+      "Luxembourg is one of the smallest countries in Europe.",
+      "It has three official languages: Luxembourgish, French, and German.",
+      "Luxembourg City is a major financial hub.",
+      "The country has a high standard of living and a strong economy."
+    ]
+  },
+  {
+    "name": "Belgium",
+    "flag": "../Flags/be.png",
+    "facts": [
+      "Belgium is known for its chocolate, waffles, and beer.",
+      "Brussels, the capital, is also the de facto capital of the EU.",
+      "It has three official languages: Dutch, French, and German.",
+      "Belgium is famous for its medieval towns and Renaissance architecture."
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "flag": "../Flags/nl.png",
+    "facts": [
+      "The Netherlands is known for its windmills, tulips, and canals.",
+      "Amsterdam is the capital and largest city.",
+      "Dutch is the official language, and many people speak English fluently.",
+      "The country is a global leader in sustainable and water management practices."
+    ]
+  },
+  {
+    "name": "Denmark",
+    "flag": "../Flags/dk.png",
+    "facts": [
+      "Denmark is known for its high quality of life and social welfare system.",
+      "Copenhagen is the capital and cultural hub.",
+      "It is famous for its design, including architecture and furniture.",
+      "The Danes are consistently ranked among the happiest people in the world."
+    ]
+  },
+  {
+    "name": "Germany",
+    "flag": "../Flags/de.png",
+    "facts": [
+      "Germany is Europe's largest economy.",
+      "Berlin is the capital and known for its rich history and vibrant culture.",
+      "The country is famous for its engineering, cars, and Oktoberfest.",
+      "German is the most widely spoken native language in Europe."
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "flag": "../Flags/ch.png",
+    "facts": [
+      "Switzerland is known for its neutrality and stunning Alpine landscapes.",
+      "Bern is the capital, while Zurich is the largest city.",
+      "It has four official languages: German, French, Italian, and Romansh.",
+      "The country is famous for its chocolates, watches, and banking industry."
+    ]
+  },
+  {
+    "name": "Monaco",
+    "flag": "../Flags/mc.png",
+    "facts": [
+      "Monaco is the second smallest country in the world.",
+      "It is known for its luxury casinos and the Monaco Grand Prix.",
+      "The official language is French, and Monte Carlo is a major district.",
+      "Monaco has no income tax and is a tax haven."
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "flag": "../Flags/li.png",
+    "facts": [
+      "Liechtenstein is one of the world's smallest and wealthiest nations.",
+      "Vaduz is the capital and a financial center.",
+      "The country is known for its alpine landscapes and medieval castles.",
+      "German is the official language."
+    ]
+  },
+  {
+    "name": "Italy",
+    "flag": "../Flags/it.png",
+    "facts": [
+      "Italy is known for its art, history, and cuisine.",
+      "Rome, the capital, is home to the Vatican and ancient ruins.",
+      "The country is famous for pizza, pasta, and wine.",
+      "Italian is the official language and widely spoken."
+    ]
+  },
+  {
+    "name": "San Marino",
+    "flag": "../Flags/sm.png",
+    "facts": [
+      "San Marino is one of the world's smallest and oldest republics.",
+      "It is entirely surrounded by Italy.",
+      "The country is known for its medieval architecture and historic towers.",
+      "Italian is the official language."
+    ]
+  },
+  {
+    "name": "Malta",
+    "flag": "../Flags/mt.png",
+    "facts": [
+      "Malta is an island nation in the Mediterranean Sea.",
+      "Valletta, its capital, is a UNESCO World Heritage Site.",
+      "The Maltese language is a unique mix of Arabic, Italian, and English influences.",
+      "The islands have a rich history dating back to the Neolithic period."
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "flag": "../Flags/cy.png",
+    "facts": [
+      "Cyprus is an island nation in the Eastern Mediterranean.",
+      "Nicosia is the capital and largest city.",
+      "The island is known for its ancient ruins and beautiful beaches.",
+      "Greek and Turkish are the official languages."
+    ]
+  },
+  {
+    "name": "N. Cyprus",
+    "flag": "../Flags/tr.png",
+    "facts": [
+      "Northern Cyprus is a self-declared state recognized only by Turkey.",
+      "Lefkoşa (North Nicosia) serves as the capital.",
+      "It is known for its historic sites, such as the Kyrenia Castle.",
+      "Turkish is the primary language spoken in the region."
+    ]
+  },
+  {
+    "name": "Dhekelia",
+    "flag": "../Flags/gb.png",
+    "facts": [
+      "Dhekelia is a British Sovereign Base Area on the island of Cyprus.",
+      "It serves as a key military base for the British Armed Forces.",
+      "The area is strategically located near the Middle East.",
+      "English is commonly spoken in Dhekelia."
+    ]
+  },
+  {
+    "name": "Cyprus U.N. Buffer Zone",
+    "flag": "../Flags/cy.png",
+    "facts": [
+      "The Cyprus U.N. Buffer Zone separates the Greek Cypriot and Turkish Cypriot communities.",
+      "It was established in 1964 to prevent further conflict.",
+      "The zone is monitored by the United Nations Peacekeeping Force in Cyprus (UNFICYP).",
+      "It includes the historic city of Nicosia, the world's last divided capital."
+    ]
+  },
+  {
+    "name": "Akrotiri",
+    "flag": "../Flags/gb.png",
+    "facts": [
+      "Akrotiri is a British Overseas Territory located on the island of Cyprus.",
+      "It is one of two Sovereign Base Areas retained by the UK after Cypriot independence.",
+      "The area serves primarily as a military base for the British Armed Forces.",
+      "Akrotiri is known for its salt lake and diverse birdlife."
+    ]
+  },
+  {
+    "name": "Finland",
+    "flag": "../Flags/fi.png",
+    "facts": [
+      "Finland is known as the 'Land of a Thousand Lakes.'",
+      "Helsinki is the capital and largest city.",
+      "Finnish and Swedish are the official languages.",
+      "Finland consistently ranks as one of the happiest countries in the world."
+    ]
+  },
+  {
+    "name": "Sweden",
+    "flag": "../Flags/se.png",
+    "facts": [
+      "Sweden is known for its innovation and high quality of life.",
+      "Stockholm is the capital and largest city.",
+      "The country is famous for its design, music, and technology exports.",
+      "Swedish is the official language, and many citizens are fluent in English."
+    ]
+  },
+  {
+    "name": "Vatican",
+    "flag": "../Flags/va.png",
+    "facts": [
+      "The Vatican City is the smallest country in the world by both area and population.",
+      "It is the spiritual and administrative center of the Roman Catholic Church.",
+      "St. Peter's Basilica and the Sistine Chapel are iconic landmarks.",
+      "Latin and Italian are the official languages."
+    ]
+  },
+  {
+    "name": "Poland",
+    "flag": "../Flags/pl.png",
+    "facts": [
+      "Poland is known for its medieval architecture and Jewish heritage.",
+      "Warsaw is the capital and largest city.",
+      "The country is famous for its pierogi and hearty cuisine.",
+      "Polish is the official language, and the currency is the złoty."
+    ]
+  },
+  {
+    "name": "Czechia",
+    "flag": "../Flags/cz.png",
+    "facts": [
+      "Czechia, also known as the Czech Republic, is famous for its castles and beer culture.",
+      "Prague, the capital, is known for its Gothic and Baroque architecture.",
+      "Czech is the official language.",
+      "The country has a rich tradition in literature and classical music."
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "flag": "../Flags/sk.png",
+    "facts": [
+      "Slovakia is known for its dramatic mountainous landscapes and medieval castles.",
+      "Bratislava is the capital and largest city.",
+      "The country is a member of the European Union and uses the euro.",
+      "Slovak is the official language."
+    ]
+  },
+  {
+    "name": "Estonia",
+    "flag": "../Flags/ee.png",
+    "facts": [
+      "Estonia is known for its digital innovation and e-government services.",
+      "Tallinn, the capital, has a well-preserved medieval Old Town.",
+      "Estonian is the official language, and the country is a Baltic state.",
+      "The country has a strong connection to Nordic culture."
+    ]
+  },
+  {
+    "name": "Latvia",
+    "flag": "../Flags/lv.png",
+    "facts": [
+      "Latvia is known for its dense forests and beautiful coastline along the Baltic Sea.",
+      "Riga, the capital, is famous for its Art Nouveau architecture.",
+      "Latvian is the official language.",
+      "The country celebrates midsummer as a major holiday."
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "flag": "../Flags/lt.png",
+    "facts": [
+      "Lithuania was the first Soviet republic to declare independence in 1990.",
+      "Vilnius is the capital and known for its baroque architecture.",
+      "Lithuanian is one of the oldest surviving Indo-European languages.",
+      "The country has a rich history in basketball and amber trade."
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "flag": "../Flags/si.png",
+    "facts": [
+      "Slovenia is known for its mountains, lakes, and charming villages.",
+      "Ljubljana is the capital and cultural hub.",
+      "The country is a member of the European Union and uses the euro.",
+      "Slovene is the official language."
+    ]
+  },
+  {
+    "name": "Hungary",
+    "flag": "../Flags/hu.png",
+    "facts": [
+      "Hungary is famous for its thermal baths and goulash.",
+      "Budapest, the capital, is divided by the Danube River.",
+      "The Hungarian language is unique and unrelated to most European languages.",
+      "The country has a rich history in classical music and architecture."
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "flag": "../Flags/ua.png",
+    "facts": [
+      "Ukraine is the largest country entirely in Europe by area.",
+      "Kyiv is the capital and one of the oldest cities in Eastern Europe.",
+      "Ukrainian is the official language, and the currency is the hryvnia.",
+      "The country is known for its rich agricultural production, especially wheat."
+    ]
+  },
+  {
+    "name": "Moldova",
+    "flag": "../Flags/md.png",
+    "facts": [
+      "Moldova is known for its wine production and fertile soil.",
+      "Chisinau is the capital and largest city.",
+      "The official language is Romanian.",
+      "Moldova has a diverse cultural heritage influenced by Romania, Ukraine, and Russia."
+    ]
+  },
+  {
+    "name": "Romania",
+    "flag": "../Flags/ro.png",
+    "facts": [
+      "Romania is famous for its castles and Dracula legend.",
+      "Bucharest is the capital and known as the 'Little Paris' of Eastern Europe.",
+      "The Carpathian Mountains cover much of the country.",
+      "Romanian is the official language."
+    ]
+  },
+  {
+    "name": "Greece",
+    "flag": "../Flags/gr.png",
+    "facts": [
+      "Greece is the cradle of Western civilization and democracy.",
+      "Athens is the capital and home to ancient landmarks like the Parthenon.",
+      "The country is known for its islands, beaches, and Mediterranean cuisine.",
+      "Greek is the official language."
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "flag": "../Flags/mk.png",
+    "facts": [
+      "North Macedonia is known for its lakes and mountain ranges.",
+      "Skopje is the capital and largest city.",
+      "The country declared independence from Yugoslavia in 1991.",
+      "Macedonian is the official language."
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "flag": "../Flags/me.png",
+    "facts": [
+      "Montenegro is famous for its Adriatic coastline and medieval villages.",
+      "Podgorica is the capital, while Kotor is a popular tourist destination.",
+      "The country declared independence from Serbia in 2006.",
+      "Montenegrin is the official language."
+    ]
+  },
+  {
+    "name": "Kosovo",
+    "flag": "../Flags/xk.png",
+    "facts": [
+      "Kosovo declared independence from Serbia in 2008.",
+      "Pristina is the capital and largest city.",
+      "The majority of the population is ethnically Albanian.",
+      "Albanian and Serbian are the official languages."
+    ]
+  },
+  {
+    "name": "Serbia",
+    "flag": "../Flags/rs.png",
+    "facts": [
+      "Serbia is known for its vibrant culture and historical landmarks.",
+      "Belgrade is the capital and one of Europe's oldest cities.",
+      "The country is famous for its hospitality and traditional cuisine.",
+      "Serbian is the official language."
+    ]
+  },
+  {
+    "name": "Croatia",
+    "flag": "../Flags/hr.png",
+    "facts": [
+      "Croatia is known for its stunning Adriatic coastline and islands.",
+      "Zagreb is the capital and cultural hub.",
+      "The country is a popular tourist destination, especially Dubrovnik.",
+      "Croatian is the official language."
+    ]
+  },
+  {
+    "name": "Turkey",
+    "flag": "../Flags/tr.png",
+    "facts": [
+      "Turkey spans two continents, Europe and Asia.",
+      "Ankara is the capital, while Istanbul is the largest city.",
+      "The country is known for its rich history and cultural heritage.",
+      "Turkish is the official language."
+    ]
+  },
+  {
+    "name": "Saint Helena",
+    "flag": "../Flags/sh.png",
+    "facts": [
+      "Saint Helena is a British Overseas Territory located in the South Atlantic Ocean.",
+      "It is known as the place of Napoleon Bonaparte's exile and death.",
+      "The island is remote and accessible by air or sea.",
+      "English is the official language."
+    ]
+  },
+  {
+    "name": "Cabo Verde",
+    "flag": "../Flags/cv.png",
+    "facts": [
+      "Cabo Verde, also known as Cape Verde, is an island country in the central Atlantic Ocean.",
+      "Praia is the capital and largest city.",
+      "The country is known for its Creole Portuguese-African culture and music.",
+      "Portuguese is the official language, while Creole is widely spoken."
+    ]
+  },
+  {
+    "name": "St. Pierre and Miquelon",
+    "flag": "../Flags/pm.png",
+    "facts": [
+      "St. Pierre and Miquelon is a self-governing territorial overseas collectivity of France.",
+      "The islands are located near Newfoundland, Canada.",
+      "French is the official language, and the culture is distinctly French.",
+      "The economy relies on fishing and tourism."
+    ]
+  },
+  {
+    "name": "Russia",
+    "flag": "../Flags/ru.png",
+    "facts": [
+      "Russia is the largest country in the world by land area.",
+      "Moscow is the capital and one of the largest cities globally.",
+      "It spans 11 time zones and has a diverse climate and landscape.",
+      "Russian is the official language."
+    ]
+  },
+  {
+    "name": "Georgia",
+    "flag": "../Flags/ge.png",
+    "facts": [
+      "Georgia is located at the crossroads of Europe and Asia.",
+      "Tbilisi is the capital and largest city.",
+      "The country is known for its ancient wine-making tradition.",
+      "Georgian is the official language."
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "flag": "../Flags/tm.png",
+    "facts": [
+      "Turkmenistan is known for its vast deserts and ancient Silk Road cities.",
+      "Ashgabat is the capital, known for its marble architecture.",
+      "The country has the world's fourth-largest natural gas reserves.",
+      "Turkmen is the official language."
+    ]
+  },
+  {
+    "name": "Iran",
+    "flag": "../Flags/ir.png",
+    "facts": [
+      "Iran, historically known as Persia, is known for its rich cultural history.",
+      "Tehran is the capital and largest city.",
+      "The country is famous for its Persian carpets and ancient sites.",
+      "Persian (Farsi) is the official language."
+    ]
+  },
+  {
+    "name": "Siachen Glacier",
+    "flag": "../Flags/in.png",
+    "facts": [
+      "Siachen Glacier is located in the eastern Karakoram range in the Himalayas.",
+      "It is one of the highest battlefields in the world.",
+      "The glacier is disputed territory between India and Pakistan.",
+      "It is strategically important for both countries."
+    ]
+  },
+  {
+    "name": "India",
+    "flag": "../Flags/in.png",
+    "facts": [
+      "India is the second most populous country in the world.",
+      "New Delhi is the capital, while Mumbai is the largest city.",
+      "The country is known for its diverse cultures, languages, and cuisines.",
+      "Hindi and English are the official languages."
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "flag": "../Flags/tj.png",
+    "facts": [
+      "Tajikistan is a mountainous country in Central Asia.",
+      "Dushanbe is the capital and largest city.",
+      "The Pamir Mountains cover much of the country.",
+      "Tajik is the official language."
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "flag": "../Flags/pk.png",
+    "facts": [
+      "Pakistan is home to the Indus Valley Civilization, one of the oldest in the world.",
+      "Islamabad is the capital, and Karachi is the largest city.",
+      "The country is known for its cultural and geographical diversity.",
+      "Urdu and English are the official languages."
+    ]
+  },
+  {
+    "name": "China",
+    "flag": "../Flags/cn.png",
+    "facts": [
+      "China is the most populous country in the world.",
+      "Beijing is the capital, and Shanghai is the largest city.",
+      "It is known for its Great Wall, ancient history, and rapid modernization.",
+      "Mandarin Chinese is the official language."
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "flag": "../Flags/kg.png",
+    "facts": [
+      "Kyrgyzstan is known for its stunning mountainous terrain.",
+      "Bishkek is the capital and largest city.",
+      "The country has a rich nomadic heritage.",
+      "Kyrgyz and Russian are the official languages."
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "flag": "../Flags/uz.png",
+    "facts": [
+      "Uzbekistan is famous for its Silk Road cities like Samarkand and Bukhara.",
+      "Tashkent is the capital and largest city.",
+      "The country is a major producer of cotton.",
+      "Uzbek is the official language."
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "flag": "../Flags/mn.png",
+    "facts": [
+      "Mongolia is known for its vast steppes and nomadic culture.",
+      "Ulaanbaatar is the capital and largest city.",
+      "The country is famous for its history as the heart of the Mongol Empire.",
+      "Mongolian is the official language."
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "flag": "../Flags/kz.png",
+    "facts": [
+      "Kazakhstan is the largest landlocked country in the world.",
+      "Astana (formerly Nur-Sultan) is the capital.",
+      "It is known for its steppe landscapes and Baikonur Cosmodrome.",
+      "Kazakh and Russian are the official languages."
+    ]
+  },
+  {
+    "name": "Baikonur",
+    "flag": "../Flags/ru.png",
+    "facts": [
+      "Baikonur is home to the Baikonur Cosmodrome, the world's first spaceport.",
+      "It is located in Kazakhstan but leased by Russia.",
+      "The site was pivotal in launching the first human into space, Yuri Gagarin.",
+      "It remains a key facility for Russian space missions."
+    ]
+  },
+  {
+    "name": "Nepal",
+    "flag": "../Flags/np.png",
+    "facts": [
+      "Nepal is home to Mount Everest, the highest peak in the world.",
+      "Kathmandu is the capital and cultural hub.",
+      "The country is known for its Hindu and Buddhist heritage.",
+      "Nepali is the official language."
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "../Flags/lk.png",
+    "facts": [
+      "Sri Lanka is an island nation in the Indian Ocean.",
+      "Colombo is the largest city, while Sri Jayawardenepura Kotte is the capital.",
+      "The country is known for its tea, spices, and ancient ruins.",
+      "Sinhala and Tamil are the official languages."
+    ]
+  },
+  {
+    "name": "Maldives",
+    "flag": "../Flags/mv.png",
+    "facts": [
+      "The Maldives is an island nation in the Indian Ocean.",
+      "Malé is the capital and largest city.",
+      "It is famous for its white-sand beaches and luxury resorts.",
+      "Dhivehi is the official language."
+    ]
+  },
+  {
+    "name": "Syria",
+    "flag": "../Flags/sy.png",
+    "facts": [
+      "Syria is one of the oldest inhabited regions in the world.",
+      "Damascus, its capital, is one of the world's oldest continuously inhabited cities.",
+      "The country has a rich cultural heritage but has been affected by a prolonged civil war.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Iraq",
+    "flag": "../Flags/iq.png",
+    "facts": [
+      "Iraq is home to ancient Mesopotamia, one of the world's earliest civilizations.",
+      "Baghdad is the capital and was historically a center of learning and culture.",
+      "The Tigris and Euphrates rivers run through the country.",
+      "Arabic and Kurdish are the official languages."
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "flag": "../Flags/kw.png",
+    "facts": [
+      "Kuwait is a small, oil-rich country in the Persian Gulf.",
+      "Kuwait City is the capital and economic hub.",
+      "The country has one of the highest incomes per capita in the world.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Jordan",
+    "flag": "../Flags/jo.png",
+    "facts": [
+      "Jordan is known for its ancient sites, including Petra and Jerash.",
+      "Amman is the capital and largest city.",
+      "The country has a history of hosting refugees from regional conflicts.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "flag": "../Flags/lb.png",
+    "facts": [
+      "Lebanon is known for its ancient history and vibrant culture.",
+      "Beirut, the capital, is often called the 'Paris of the Middle East.'",
+      "The country is famous for its cuisine, including hummus and tabbouleh.",
+      "Arabic is the official language, with French widely spoken."
+    ]
+  },
+  {
+    "name": "Palestine",
+    "flag": "../Flags/ps.png",
+    "facts": [
+      "Palestine refers to the West Bank and Gaza Strip regions.",
+      "Ramallah and Gaza City serve as administrative centers.",
+      "The region has significant historical and religious importance.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Israel",
+    "flag": "../Flags/il.png",
+    "facts": [
+      "Israel is known for its technological innovation and historical landmarks.",
+      "Jerusalem is the capital and a city of major religious significance.",
+      "The country is a leader in water management and desert agriculture.",
+      "Hebrew and Arabic are the official languages."
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "flag": "../Flags/sa.png",
+    "facts": [
+      "Saudi Arabia is the birthplace of Islam and home to Mecca and Medina.",
+      "Riyadh is the capital and largest city.",
+      "The country is a major global oil exporter.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Qatar",
+    "flag": "../Flags/qa.png",
+    "facts": [
+      "Qatar is a small, wealthy nation on the Persian Gulf.",
+      "Doha is the capital and a rapidly growing city.",
+      "The country hosted the FIFA World Cup in 2022.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Yemen",
+    "flag": "../Flags/ye.png",
+    "facts": [
+      "Yemen is home to ancient kingdoms and unique architecture.",
+      "Sana'a, its capital, is one of the world's oldest inhabited cities.",
+      "The country has been affected by a prolonged humanitarian crisis.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Oman",
+    "flag": "../Flags/om.png",
+    "facts": [
+      "Oman is known for its historic forts and stunning desert landscapes.",
+      "Muscat is the capital and a key port city.",
+      "The country has a long history of maritime trade.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Egypt",
+    "flag": "../Flags/eg.png",
+    "facts": [
+      "Egypt is famous for its ancient civilization and pyramids.",
+      "Cairo is the capital and largest city.",
+      "The Nile River is central to the country's history and agriculture.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "flag": "../Flags/tn.png",
+    "facts": [
+      "Tunisia is home to ancient Carthage and stunning Mediterranean beaches.",
+      "Tunis is the capital and cultural hub.",
+      "The country played a pivotal role in the Arab Spring.",
+      "Arabic is the official language, with French widely spoken."
+    ]
+  },
+  {
+    "name": "Morocco",
+    "flag": "../Flags/ma.png",
+    "facts": [
+      "Morocco is known for its diverse landscapes and vibrant culture.",
+      "Rabat is the capital, while Casablanca is the largest city.",
+      "The country is famous for its traditional markets and cuisine.",
+      "Arabic and Berber are the official languages."
+    ]
+  },
+  {
+    "name": "Algeria",
+    "flag": "../Flags/dz.png",
+    "facts": [
+      "Algeria is the largest country in Africa by land area.",
+      "Algiers is the capital and largest city.",
+      "The country is known for its Sahara Desert and Mediterranean coast.",
+      "Arabic and Berber are the official languages."
+    ]
+  },
+  {
+    "name": "Libya",
+    "flag": "../Flags/ly.png",
+    "facts": [
+      "Libya is known for its vast deserts and ancient Roman ruins.",
+      "Tripoli is the capital and largest city.",
+      "The country has significant oil reserves.",
+      "Arabic is the official language."
+    ]
+  },
+  {
+    "name": "W. Sahara",
+    "flag": "../Flags/eh.png",
+    "facts": [
+      "Western Sahara is a disputed territory in North Africa.",
+      "It is sparsely populated, with much of the region being desert.",
+      "The sovereignty of the territory is claimed by Morocco and the Sahrawi Arab Democratic Republic."
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "flag": "../Flags/mr.png",
+    "facts": [
+      "Mauritania is located in West Africa and is largely covered by desert.",
+      "Nouakchott is the capital and largest city.",
+      "The country is known for its ancient cities and rich cultural history."
+    ]
+  },
+  {
+    "name": "Mali",
+    "flag": "../Flags/ml.png",
+    "facts": [
+      "Mali is home to historic sites like Timbuktu and Djenné.",
+      "Bamako is the capital and largest city.",
+      "The Niger River plays a vital role in the country's economy and culture."
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "flag": "../Flags/ng.png",
+    "facts": [
+      "Nigeria is the most populous country in Africa.",
+      "Abuja is the capital, while Lagos is the largest city and economic hub.",
+      "The country is rich in cultural diversity and natural resources, especially oil."
+    ]
+  },
+  {
+    "name": "Niger",
+    "flag": "../Flags/ne.png",
+    "facts": [
+      "Niger is a landlocked country in West Africa.",
+      "Niamey is the capital and largest city.",
+      "The Sahara Desert covers much of the country."
+    ]
+  },
+  {
+    "name": "Chad",
+    "flag": "../Flags/td.png",
+    "facts": [
+      "Chad is known as the 'Dead Heart of Africa' due to its location in the Sahara.",
+      "N'Djamena is the capital and largest city.",
+      "Lake Chad is a critical water source and one of the largest in Africa."
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "flag": "../Flags/er.png",
+    "facts": [
+      "Eritrea is located in the Horn of Africa.",
+      "Asmara, its capital, is known for its modernist architecture.",
+      "The country has a coastline along the Red Sea."
+    ]
+  },
+  {
+    "name": "Sudan",
+    "flag": "../Flags/sd.png",
+    "facts": [
+      "Sudan is home to more pyramids than Egypt.",
+      "Khartoum is the capital and lies at the confluence of the Blue and White Nile.",
+      "The country has a rich history as part of ancient Nubia."
+    ]
+  },
+  {
+    "name": "Somalia",
+    "flag": "../Flags/so.png",
+    "facts": [
+      "Somalia is located in the Horn of Africa and has the longest coastline in mainland Africa.",
+      "Mogadishu is the capital and largest city.",
+      "The country has a rich maritime history and unique architecture."
+    ]
+  },
+  {
+    "name": "Somaliland",
+    "flag": "../Flags/sml.png",
+    "facts": [
+      "Somaliland is a self-declared state in the Horn of Africa.",
+      "Hargeisa is the capital and largest city.",
+      "It is not internationally recognized as independent but operates autonomously."
+    ]
+  },
+  {
+    "name": "Kenya",
+    "flag": "../Flags/ke.png",
+    "facts": [
+      "Kenya is famous for its wildlife and safari tourism.",
+      "Nairobi is the capital and largest city.",
+      "The country has a diverse culture and is home to over 40 ethnic groups."
+    ]
+  },
+  {
+    "name": "Uganda",
+    "flag": "../Flags/ug.png",
+    "facts": [
+      "Uganda is known as the 'Pearl of Africa' for its natural beauty.",
+      "Kampala is the capital and largest city.",
+      "The country is home to Lake Victoria, one of the largest freshwater lakes in the world."
+    ]
+  },
+  {
+    "name": "S. Sudan",
+    "flag": "../Flags/ss.png",
+    "facts": [
+      "South Sudan is the world's youngest country, gaining independence in 2011.",
+      "Juba is the capital and largest city.",
+      "The country is rich in cultural diversity with over 60 ethnic groups."
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "flag": "../Flags/cm.png",
+    "facts": [
+      "Cameroon is often referred to as 'Africa in Miniature' for its diversity.",
+      "Yaoundé is the capital, while Douala is the largest city and economic hub.",
+      "The country is known for its music, art, and football achievements."
+    ]
+  },
+  {
+    "name": "Togo",
+    "flag": "../Flags/tg.png",
+    "facts": [
+      "Togo is one of the smallest countries in Africa.",
+      "Lomé is the capital and largest city.",
+      "The country is known for its palm-lined beaches and traditional voodoo practices."
+    ]
+  },
+  {
+    "name": "Ghana",
+    "flag": "../Flags/gh.png",
+    "facts": [
+      "Ghana was the first African country to gain independence from colonial rule.",
+      "Accra is the capital and largest city.",
+      "The country is known for its gold, cocoa, and rich cultural heritage."
+    ]
+  },
+  {
+    "name": "Liberia",
+    "flag": "../Flags/lr.png",
+    "facts": [
+      "Liberia was founded by freed American and Caribbean slaves.",
+      "Monrovia, the capital, is named after U.S. President James Monroe.",
+      "The country's flag resembles the American flag due to its historical ties."
+    ]
+  },
+  {
+    "name": "Guinea",
+    "flag": "../Flags/gn.png",
+    "facts": [
+      "Guinea is rich in natural resources, particularly bauxite.",
+      "Conakry is the capital and largest city.",
+      "The country is home to Mount Nimba, a UNESCO World Heritage Site."
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "flag": "../Flags/gw.png",
+    "facts": [
+      "Guinea-Bissau is known for its biodiversity and archipelago of islands.",
+      "Bissau is the capital and largest city.",
+      "The country is one of the world's largest cashew exporters."
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "flag": "../Flags/sl.png",
+    "facts": [
+      "Sierra Leone is famous for its white-sand beaches and vibrant culture.",
+      "Freetown is the capital and largest city.",
+      "The country has a rich history as a home for freed African slaves."
+    ]
+  },
+  {
+    "name": "Senegal",
+    "flag": "../Flags/sn.png",
+    "facts": [
+      "Senegal is known for its music, dance, and vibrant art scene.",
+      "Dakar, the capital, is located on the Cape Verde Peninsula.",
+      "The country is a hub for West African culture and commerce."
+    ]
+  },
+  {
+    "name": "Gambia",
+    "flag": "../Flags/gm.png",
+    "facts": [
+      "Gambia is the smallest country in mainland Africa.",
+      "Banjul is the capital, and the Gambia River dominates the country.",
+      "It is known for its vibrant markets and cultural traditions."
+    ]
+  },
+  {
+    "name": "São Tomé and Principe",
+    "flag": "../Flags/st.png",
+    "facts": [
+      "São Tomé and Principe is Africa's second-smallest country.",
+      "It consists of two islands located in the Gulf of Guinea.",
+      "The islands are known for their cocoa production and biodiversity."
+    ]
+  },
+  {
+    "name": "Eq. Guinea",
+    "flag": "../Flags/gq.png",
+    "facts": [
+      "Equatorial Guinea is one of Africa's smallest countries.",
+      "Malabo, located on Bioko Island, is the capital.",
+      "The country is rich in oil reserves and tropical forests."
+    ]
+  },
+  {
+    "name": "Gabon",
+    "flag": "../Flags/ga.png",
+    "facts": [
+      "Gabon is known for its national parks and wildlife conservation efforts.",
+      "Libreville is the capital and largest city.",
+      "The country is rich in oil and mineral resources."
+    ]
+  },
+  {
+    "name": "Zambia",
+    "flag": "../Flags/zm.png",
+    "facts": [
+      "Zambia is home to the iconic Victoria Falls, one of the Seven Natural Wonders of the World.",
+      "Lusaka is the capital and largest city.",
+      "The country is known for its rich wildlife and national parks."
+    ]
+  },
+  {
+    "name": "Malawi",
+    "flag": "../Flags/mw.png",
+    "facts": [
+      "Malawi is often called the 'Warm Heart of Africa' due to its friendly people.",
+      "Lilongwe is the capital and largest city.",
+      "Lake Malawi, one of the largest lakes in the world, dominates the country."
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "flag": "../Flags/zw.png",
+    "facts": [
+      "Zimbabwe is known for its ancient ruins, including Great Zimbabwe.",
+      "Harare is the capital and largest city.",
+      "The country is home to diverse wildlife and the majestic Victoria Falls."
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "flag": "../Flags/mz.png",
+    "facts": [
+      "Mozambique has a long coastline along the Indian Ocean, with beautiful beaches and islands.",
+      "Maputo is the capital and largest city.",
+      "The country is known for its rich culture and vibrant seafood cuisine."
+    ]
+  },
+  {
+    "name": "eSwatini",
+    "flag": "../Flags/sz.png",
+    "facts": [
+      "eSwatini, formerly Swaziland, is one of Africa's smallest countries.",
+      "Mbabane is the administrative capital, while Lobamba is the royal and legislative capital.",
+      "The country is known for its traditional Swazi culture and festivals."
+    ]
+  },
+  {
+    "name": "Namibia",
+    "flag": "../Flags/na.png",
+    "facts": [
+      "Namibia is home to the Namib Desert, one of the oldest deserts in the world.",
+      "Windhoek is the capital and largest city.",
+      "The country is known for its stunning landscapes and wildlife."
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "flag": "../Flags/ls.png",
+    "facts": [
+      "Lesotho is a landlocked country entirely surrounded by South Africa.",
+      "Maseru is the capital and largest city.",
+      "The country is known for its mountainous terrain and unique culture."
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "flag": "../Flags/mg.png",
+    "facts": [
+      "Madagascar is the world's fourth-largest island and is known for its unique biodiversity.",
+      "Antananarivo is the capital and largest city.",
+      "The island is home to lemurs, baobab trees, and pristine beaches."
+    ]
+  },
+  {
+    "name": "Fr. S. Antarctic Lands",
+    "flag": "../Flags/tf.png",
+    "facts": [
+      "The French Southern and Antarctic Lands are a group of islands and territories in the Indian Ocean and Antarctica.",
+      "These territories are uninhabited except for research staff.",
+      "The region is known for its unique wildlife, including seabirds and seals."
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "flag": "../Flags/sc.png",
+    "facts": [
+      "Seychelles is an archipelago of 115 islands in the Indian Ocean.",
+      "Victoria is the capital and one of the smallest capitals in the world.",
+      "The islands are known for their stunning beaches, coral reefs, and nature reserves."
+    ]
+  },
+  {
+    "name": "Comoros",
+    "flag": "../Flags/cm.png",
+    "facts": [
+      "Comoros is an island nation located in the Indian Ocean.",
+      "Moroni is the capital and largest city.",
+      "The country is known for its volcanic landscapes and aromatic plant life."
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "flag": "../Flags/mu.png",
+    "facts": [
+      "Mauritius is an island nation known for its beaches, lagoons, and reefs.",
+      "Port Louis is the capital and largest city.",
+      "The extinct dodo bird was native to Mauritius."
+    ]
+  },
+  {
+    "name": "Indian Ocean Ter.",
+    "flag": "../Flags/io.png",
+    "facts": [
+      "The Indian Ocean Territories consist of islands administered by Australia, including Christmas Island and the Cocos Islands.",
+      "These territories are known for their unique ecosystems and coral reefs.",
+      "The islands are sparsely populated but rich in natural beauty."
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "flag": "../Flags/dj.png",
+    "facts": [
+      "Djibouti is located in the Horn of Africa and is known for its strategic location near the Red Sea.",
+      "Djibouti City is the capital and largest city.",
+      "The country is home to Lake Assal, one of the saltiest bodies of water in the world."
+    ]
+  },
+  {
+    "name": "South Africa",
+    "flag": "../Flags/za.png",
+    "facts": [
+      "South Africa is known as the 'Rainbow Nation' due to its diverse cultures and languages.",
+      "It has three capital cities: Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judicial).",
+      "South Africa is famous for its wildlife and is home to Kruger National Park.",
+      "The country is the world's largest producer of platinum and one of the largest producers of gold and diamonds."
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "flag": "../Flags/et.png",
+    "facts": [
+      "Ethiopia is one of the oldest nations in the world, with a rich history dating back thousands of years.",
+      "Addis Ababa is the capital and the headquarters of the African Union.",
+      "The country is known for its coffee, considered the birthplace of coffee culture.",
+      "Ethiopia uses its own unique calendar system, which is about seven years behind the Gregorian calendar."
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "flag": "../Flags/rw.png",
+    "facts": [
+      "Rwanda is known as the 'Land of a Thousand Hills' due to its mountainous landscape.",
+      "Kigali, the capital, is renowned for its cleanliness and safety.",
+      "The country is famous for its mountain gorillas and conservation efforts in Volcanoes National Park.",
+      "Rwanda has made significant strides in gender equality, with a majority of its parliament being women."
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "flag": "../Flags/tz.png",
+    "facts": [
+      "Tanzania is home to Mount Kilimanjaro, the highest peak in Africa.",
+      "The Serengeti National Park is famous for the annual wildebeest migration.",
+      "Dodoma is the capital, while Dar es Salaam is the largest city and economic hub.",
+      "Tanzania includes the Zanzibar Archipelago, known for its pristine beaches and historic Stone Town."
+    ]
+  },
+  {
+    "name": "North Korea",
+    "flag": "../Flags/kp.png",
+    "facts": [
+      "North Korea is officially known as the Democratic People's Republic of Korea (DPRK).",
+      "Pyongyang is the capital and largest city.",
+      "The country follows a state-controlled economy and political system under the Kim dynasty.",
+      "The Demilitarized Zone (DMZ) separates North Korea from South Korea."
+    ]
+  },
+  {
+    "name": "South Korea",
+    "flag": "../Flags/kr.png",
+    "facts": [
+      "South Korea is known for its advanced technology and pop culture, including K-pop and Korean dramas.",
+      "Seoul is the capital and one of the most populous cities in the world.",
+      "The country has a highly developed economy and is a leader in electronics, automobiles, and shipbuilding.",
+      "South Korea hosts the UNESCO-listed Jeju Island and the historic city of Gyeongju."
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "flag": "../Flags/tw.png",
+    "facts": [
+      "Taiwan is officially known as the Republic of China (ROC).",
+      "Taipei is the capital and economic center.",
+      "The island is known for its high-tech industry and vibrant night markets.",
+      "Taroko Gorge and Sun Moon Lake are popular tourist destinations."
+    ]
+  },
+  {
+    "name": "Japan",
+    "flag": "../Flags/jp.png",
+    "facts": [
+      "Japan is an island nation in East Asia, known for its technology and traditional culture.",
+      "Tokyo is the capital and one of the largest cities in the world.",
+      "The country is famous for its cherry blossoms, sushi, and Mount Fuji.",
+      "Japan has a rich history, including samurai, geisha, and ancient temples."
+    ]
+  },
+  {
+    "name": "Macao",
+    "flag": "../Flags/mo.png",
+    "facts": [
+      "Macao is a Special Administrative Region of China, known as the 'Las Vegas of Asia' for its casinos.",
+      "It was a Portuguese colony until 1999 and retains a unique blend of Chinese and Portuguese culture.",
+      "Macao is famous for its historic sites, including the Ruins of St. Paul's and A-Ma Temple.",
+      "The region's economy heavily relies on tourism and gaming."
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "flag": "../Flags/hk.png",
+    "facts": [
+      "Hong Kong is a Special Administrative Region of China known for its skyscrapers and bustling harbor.",
+      "It was a British colony until 1997 and operates under a 'one country, two systems' framework.",
+      "The region is a global financial hub and has one of the world's busiest ports.",
+      "Victoria Peak and the Star Ferry are iconic attractions in Hong Kong."
+    ]
+  },
+  {
+    "name": "Palau",
+    "flag": "../Flags/pw.png",
+    "facts": [
+      "Palau is an island nation in the western Pacific Ocean, known for its pristine marine environment.",
+      "The capital is Ngerulmud, located on Babeldaob Island.",
+      "The Rock Islands are a UNESCO World Heritage Site and a popular destination for snorkeling and diving.",
+      "Palau is committed to marine conservation and established one of the world's largest marine sanctuaries."
+    ]
+  },
+  {
+    "name": "Philippines",
+    "flag": "../Flags/ph.png",
+    "facts": [
+      "The Philippines is an archipelago of over 7,000 islands in Southeast Asia.",
+      "Manila is the capital, while Quezon City is the largest city by population.",
+      "The country is known for its vibrant festivals, beaches, and hospitality.",
+      "Tagalog and English are the official languages, and the country has a rich Spanish colonial history."
+    ]
+  },
+  {
+    "name": "N. Mariana Is.",
+    "flag": "../Flags/mp.png",
+    "facts": [
+      "The Northern Mariana Islands are a U.S. Commonwealth in the Pacific Ocean.",
+      "Saipan is the largest island and serves as the capital.",
+      "The islands are known for their tropical climate and World War II historical sites.",
+      "Tourism is a major part of the local economy."
+    ]
+  },
+  {
+    "name": "Guam",
+    "flag": "../Flags/gu.png",
+    "facts": [
+      "Guam is a U.S. territory in the Pacific Ocean and the largest island in Micronesia.",
+      "The capital is Hagåtña, and Tumon is a major tourist hub.",
+      "The island has a significant military presence with strategic importance.",
+      "Guam is known for its Chamorro culture and tropical beaches."
+    ]
+  },
+  {
+    "name": "U.S. Minor Outlying Is.",
+    "flag": "../Flags/um.png",
+    "facts": [
+      "The U.S. Minor Outlying Islands consist of small islands and atolls in the Pacific and Caribbean.",
+      "These islands are mostly uninhabited and serve as wildlife refuges or military bases.",
+      "Examples include Wake Island, Johnston Atoll, and Midway Atoll.",
+      "The islands are administered by the U.S. government."
+    ]
+  },
+  {
+    "name": "Laos",
+    "flag": "../Flags/la.png",
+    "facts": [
+      "Laos is a landlocked country in Southeast Asia known for its mountainous terrain.",
+      "Vientiane is the capital and largest city.",
+      "The country is famous for its Buddhist temples, including Pha That Luang.",
+      "The Mekong River is a vital waterway for trade and agriculture in Laos."
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "flag": "../Flags/vn.png",
+    "facts": [
+      "Vietnam is known for its rich history and diverse landscapes.",
+      "Hanoi is the capital, while Ho Chi Minh City is the largest city.",
+      "The country is famous for its cuisine, including pho and banh mi.",
+      "Halong Bay, a UNESCO World Heritage Site, is a popular tourist destination."
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "flag": "../Flags/mm.png",
+    "facts": [
+      "Myanmar, also known as Burma, is known for its ancient pagodas and temples.",
+      "Naypyidaw is the capital, while Yangon is the largest city.",
+      "The country is famous for Bagan, a vast plain with thousands of Buddhist temples.",
+      "Myanmar has a diverse culture influenced by Buddhism and ethnic groups."
+    ]
+  },
+  {
+    "name": "Thailand",
+    "flag": "../Flags/th.png",
+    "facts": [
+      "Thailand is known for its tropical beaches, ornate temples, and vibrant cities.",
+      "Bangkok is the capital and a major cultural and economic hub.",
+      "The country is famous for its cuisine, including dishes like pad Thai and tom yum.",
+      "Thailand is the only Southeast Asian country that was never colonized by a European power."
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "flag": "../Flags/kh.png",
+    "facts": [
+      "Cambodia is home to Angkor Wat, the largest religious monument in the world.",
+      "Phnom Penh is the capital and largest city.",
+      "The country has a rich history influenced by the Khmer Empire.",
+      "Cambodia's economy relies heavily on tourism, agriculture, and textiles."
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "flag": "../Flags/id.png",
+    "facts": [
+      "Indonesia is the world's largest archipelago, with over 17,000 islands.",
+      "Jakarta is the capital and the most populous city.",
+      "The country is known for its diverse cultures, languages, and religions.",
+      "Bali is a globally renowned tourist destination."
+    ]
+  },
+  {
+    "name": "Singapore",
+    "flag": "../Flags/sg.png",
+    "facts": [
+      "Singapore is a city-state known for its cleanliness, efficiency, and modern skyline.",
+      "The country is a major financial hub in Southeast Asia.",
+      "Singapore is famous for its multicultural cuisine and iconic landmarks like Marina Bay Sands.",
+      "It is one of the smallest countries in the world."
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "flag": "../Flags/my.png",
+    "facts": [
+      "Malaysia consists of Peninsular Malaysia and the states of Sabah and Sarawak on Borneo.",
+      "Kuala Lumpur is the capital, while Putrajaya is the administrative center.",
+      "The country is known for its rainforests, beaches, and multicultural society.",
+      "The Petronas Towers in Kuala Lumpur are among the tallest twin towers in the world."
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "flag": "../Flags/pg.png",
+    "facts": [
+      "Papua New Guinea is one of the most culturally diverse countries in the world.",
+      "Port Moresby is the capital and largest city.",
+      "The country is known for its dense rainforests and rich biodiversity.",
+      "Over 800 languages are spoken in Papua New Guinea."
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "flag": "../Flags/tl.png",
+    "facts": [
+      "Timor-Leste, also known as East Timor, is located in Southeast Asia.",
+      "Dili is the capital and largest city.",
+      "The country gained independence from Indonesia in 2002.",
+      "Timor-Leste is known for its pristine beaches and coral reefs."
+    ]
+  },
+  {
+    "name": "Ashmore and Cartier Is.",
+    "flag": "../Flags/au.png",
+    "facts": [
+      "Ashmore and Cartier Islands are uninhabited external territories of Australia located in the Indian Ocean.",
+      "The islands are part of the Australian National Wildlife Refuge.",
+      "They are known for their rich marine biodiversity, including coral reefs and sea turtle nesting grounds.",
+      "Access to the islands is restricted to protect the environment and wildlife."
+    ]
+  },
+  {
+    "name": "New Caledonia",
+    "flag": "../Flags/nc.png",
+    "facts": [
+      "New Caledonia is a French overseas territory located in the southwest Pacific Ocean.",
+      "The capital is Nouméa, located on the largest island, Grande Terre.",
+      "The territory is known for its stunning coral reefs, which are among the largest in the world.",
+      "New Caledonia has a rich indigenous Kanak culture and is working toward increased autonomy from France."
+    ]
+  },
+  {
+    "name": "Norfolk Island",
+    "flag": "../Flags/nf.png",
+    "facts": [
+      "Norfolk Island is an Australian external territory located in the Pacific Ocean.",
+      "The island is famous for its unique pine tree, the Norfolk Island pine, and its dramatic coastal scenery.",
+      "Kingston, the capital, is home to well-preserved colonial-era buildings.",
+      "The island has a small population and a unique blend of British and Polynesian heritage."
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "flag": "../Flags/nz.png",
+    "facts": [
+      "New Zealand is an island nation in the South Pacific Ocean, known for its diverse landscapes, including beaches, mountains, and forests.",
+      "Wellington is the capital, while Auckland is the largest city.",
+      "The country is famous for its indigenous Māori culture, and its rugby team, the All Blacks, is internationally renowned.",
+      "English and Māori are both official languages, and the country is known for its progressive environmental policies."
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "flag": "../Flags/fm.png",
+    "facts": [
+      "Micronesia is a country in the western Pacific Ocean made up of four states: Yap, Chuuk, Pohnpei, and Kosrae.",
+      "The country is known for its beautiful coral reefs and pristine beaches.",
+      "Palikir is the capital of Micronesia, located on the island of Pohnpei.",
+      "Micronesia has a rich history of indigenous cultures, with each state having its own unique traditions and languages."
+    ]
+  },
+  {
+    "name": "Spratly Is.",
+    "flag": "../Flags/vn.png",
+    "facts": [
+      "The Spratly Is. are a group of islands and reefs in the South China Sea, claimed by multiple countries including Vietnam, China, the Philippines, Malaysia, and Brunei.",
+      "These islands are strategically important due to their location and potential underwater oil and gas reserves.",
+      "Vietnam controls several of the islands, but China has also built artificial islands and military facilities in the area, escalating territorial disputes.",
+      "The sovereignty of the Spratly Is. is one of the most contentious territorial disputes in Southeast Asia, with countries vying for control over the islands' resources and maritime routes."
+    ]
+  },
+  {
+    "name": "Solomon Is.",
+    "flag": "../Flags/sb.png",
+    "facts": [
+      "The Solomon Is. is a sovereign country in Oceania, consisting of a group of islands in the South Pacific.",
+      "Honiara is the capital and largest city.",
+      "The islands are known for their rich cultural heritage and World War II history, particularly the Battle of Guadalcanal.",
+      "The economy is based on agriculture, forestry, and fishing."
+    ]
+  },
+  {
+    "name": "Fiji",
+    "flag": "../Flags/fj.png",
+    "facts": [
+      "Fiji is an island country in the South Pacific, known for its white-sand beaches and crystal-clear waters.",
+      "Suva is the capital, and Nadi is another major city.",
+      "Fiji is famous for its diverse culture, with influences from indigenous Fijians, Indo-Fijians, and other ethnic groups.",
+      "The country is a popular destination for tourists, especially for diving and resorts."
+    ]
+  },
+  {
+    "name": "Tonga",
+    "flag": "../Flags/to.png",
+    "facts": [
+      "Tonga is an archipelago in the South Pacific, consisting of 169 islands.",
+      "Nukuʻalofa is the capital and largest city.",
+      "Tonga is known for being the only Polynesian kingdom and its rich traditions and culture.",
+      "The economy relies on agriculture, tourism, and remittances from Tongans abroad."
+    ]
+  },
+  {
+    "name": "Samoa",
+    "flag": "../Flags/ws.png",
+    "facts": [
+      "Samoa is an independent island nation in the South Pacific, known for its natural beauty and vibrant Polynesian culture.",
+      "Apia is the capital and largest city.",
+      "The country has a strong tradition of communal living and a history rooted in Polynesian mythology.",
+      "Tourism, agriculture, and remittances are key contributors to Samoa's economy."
+    ]
+  },
+  {
+    "name": "Wallis and Futuna Is.",
+    "flag": "../Flags/wf.png",
+    "facts": [
+      "Wallis and Futuna Is. is a French overseas collectivity located in the South Pacific.",
+      "The islands are known for their traditional Polynesian culture and are home to several distinct villages.",
+      "The capital is Mata-Utu on Wallis Island.",
+      "The economy is based on agriculture, fishing, and remittances from Wallisians living abroad."
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "flag": "../Flags/tv.png",
+    "facts": [
+      "Tuvalu is a small island country in the Pacific Ocean, known for its low elevation and vulnerability to climate change.",
+      "Funafuti is the capital and largest atoll.",
+      "Tuvalu is one of the world's smallest and least populous countries.",
+      "The country's economy is primarily based on fishing, remittances, and foreign aid."
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "flag": "../Flags/ki.png",
+    "facts": [
+      "Kiribati is a Pacific island nation, consisting of 33 atolls and reef islands spread across a vast area of ocean.",
+      "Tarawa is the capital and most populous island.",
+      "Kiribati faces significant challenges due to rising sea levels and its low-lying geography.",
+      "The country's economy is based on fishing, agriculture, and remittances."
+    ]
+  },
+  {
+    "name": "Nauru",
+    "flag": "../Flags/nr.png",
+    "facts": [
+      "Nauru is the third smallest country in the world, located in the Pacific Ocean.",
+      "The capital is Yaren, which is also the largest district.",
+      "Nauru is known for its phosphate mining industry, though it faces environmental and economic challenges due to over-mining.",
+      "The country is highly dependent on foreign aid and remittances."
+    ]
+  },
+  {
+    "name": "Marshall Is.",
+    "flag": "../Flags/mh.png",
+    "facts": [
+      "The Marshall Is. is a country in the central Pacific Ocean, consisting of 29 atolls and 5 islands.",
+      "Majuro is the capital and largest city.",
+      "The Marshall Islands were a former U.S. Trust Territory and remain closely associated with the U.S. through a Compact of Free Association.",
+      "The economy is based on aid, fishing, and agriculture."
+    ]
+  },
+  {
+    "name": "Fr. Polynesia",
+    "flag": "../Flags/pf.png",
+    "facts": [
+      "Fr. Polynesia is an overseas collectivity of France, located in the South Pacific and comprising several islands including Tahiti.",
+      "Papeete, on Tahiti, is the capital and largest city.",
+      "The region is famous for its tropical climate, lagoons, and strong cultural ties to traditional Polynesian customs.",
+      "Tourism is a key sector, along with agriculture and pearl farming."
+    ]
+  },
+  {
+    "name": "Pitcairn Is.",
+    "flag": "../Flags/pn.png",
+    "facts": [
+      "Pitcairn Is. is a British Overseas Territory located in the Pacific Ocean, known for being one of the most remote inhabited places in the world.",
+      "The island is home to descendants of the HMS Bounty mutineers.",
+      "The economy is small, relying on subsistence farming, fishing, and a small tourism industry.",
+      "The capital is Adamstown, the only settlement on the island."
+    ]
+  },
+  {
+    "name": "Cook Is.",
+    "flag": "../Flags/ck.png",
+    "facts": [
+      "The Cook Is. is a self-governing territory in free association with New Zealand, located in the South Pacific.",
+      "Avarua, on Rarotonga Island, is the capital and largest city.",
+      "The Cook Islands are known for their natural beauty, including lagoons and coral reefs.",
+      "Tourism and agriculture are major contributors to the economy."
+    ]
+  },
+  {
+    "name": "Niue",
+    "flag": "../Flags/nu.png",
+    "facts": [
+      "Niue is a small island country in the South Pacific, in free association with New Zealand.",
+      "Alofi is the capital and largest settlement.",
+      "Niue is known for its limestone cliffs, caves, and coral reefs.",
+      "The economy is based on agriculture, tourism, and remittances from Niueans abroad."
+    ]
+  },
+  {
+    "name": "Heard I. and McDonald Is.",
+    "flag": "../Flags/hm.png",
+    "facts": [
+      "Heard Island and McDonald Islands are uninhabited territories of Australia in the Southern Indian Ocean.",
+      "The islands are known for their active volcanic landscape, including the world’s southernmost active volcano, Big Ben.",
+      "The islands are a UNESCO World Heritage Site, recognized for their exceptional wilderness and ecological significance.",
+      "The region is largely untouched, with strict conservation measures in place to protect its unique environment."
+    ]
   }
 ]

@@ -11,7 +11,7 @@ const Coordinates: React.FC<CoordinatesProps> = ({ latitude, longitude }) => {
             position: 'absolute',
             bottom: '10px',
             left: '10px',
-            backgroundColor: 'rgba(255, 255, 255, 0.8)', // Semi-transparent background
+            backgroundColor: 'rgba(0, 0, 0, 0.8)', // Semi-transparent background
             padding: '5px',
             borderRadius: '5px',
             zIndex: 1, // Ensure it sits on top of the map
